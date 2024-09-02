@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portões em Promoção</title>
+    <link rel="stylesheet" href="cesar.css">
+</head>
+<body>
+    <header>
+        <h1>Portões em Promoção</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Início</a></li>
+                <li><a href="#products">Produtos</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Bem-vindo à nossa loja de portões!</h2>
+        <p>Oferecemos uma variedade de portões de alta qualidade para atender às suas necessidades. Navegue pelos nossos produtos e aproveite as ofertas especiais.</p>
+    </section>
+
+    <section id="products">
+        <h2>Nossos Produtos</h2>
+        <div class="product">
+            <img src="portao bosta.jpg" alt="Portão Moderno">
+            <h3>Portão Moderno</h3>
+            <p>Descrição: Portão de alumínio com design contemporâneo e acabamento em pintura eletrostática.</p>
+            <p class="price">R$ 1.500,00</p>
+        </div>
+        <div class="product">
+            <img src="portao moderno.webp" alt="Portão Clássico">
+            <h3>Portão Clássico</h3>
+            <p>Descrição: Portão de ferro com detalhes ornamentais, ideal para ambientes tradicionais.</p>
+            <p class="price">R$ 2.000,00</p>
+        </div>
+        <div class="product">
+            <img src="portao automatico.jpg" alt="Portão Automático">
+            <h3>Portão Automático</h3>
+            <p>Descrição: Portão com sistema automatizado para maior conforto e segurança.</p>
+            <p class="price">R$ 3.500,00</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Entre em Contato</h2>
+        <p>Se você tiver alguma dúvida ou deseja fazer um pedido, entre em contato conosco:</p>
+        <p>Email: cesar.mograo@escola.pr.gov.br</p>
+        <p>Telefone: (42) 98416-7572</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Portões em Promoção. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
